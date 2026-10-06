@@ -191,5 +191,13 @@
     "current_slug": "malsburg-cipher-letter-1637",
     "date_utc": "2026-10-06",
     "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  },
+  "community_workflow_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "31d4b1ed86b20de767888ab5ba7c82bc47db7cf1",
+    "scope": "Research participation links and workflow entry point only; retained scientific inputs and claim status unchanged. adapted_files hashes above record the initial publication snapshot.",
+    "navigation_file": "README.md",
+    "previous_sha256": "336650ee99e2f4101a0e17e91407049975bc37206e96d2dc4307f5fbad14594e",
+    "current_sha256": "42f342cb95f085d0657d211ea7e3beb97e432eecf79d2ef1656f58c9104f00aa"
   }
 }
