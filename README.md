@@ -1,6 +1,6 @@
 # Malsburg’s cipher letter (1637)
 
-510-letter alphabetic-block reading proposal. Unresolved markers, literal defects and missing historical alphabet.json remain explicit. Credit Bourdeau and the separately acknowledged later contribution.
+510-letter alphabetic-block reading proposal. Unresolved markers, literal defects and missing historical alphabet.json remain explicit. Daniel Bourdeau’s foundational work and Larry Beck’s later contribution with ChatGPT are credited in the research account.
 
 Read the [research account](malsburg-1637/article.md), [topic navigation](malsburg-1637/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
 
