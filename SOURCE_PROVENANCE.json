@@ -126,22 +126,22 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "0f9ff69e6942317b1d1dd2d6bcfdf26a4542271640a657a8edd302a681e03fa4",
+      "sha256": "c84d83ce7273c050aec66f99a42831b81d952d27c535a6defc4d86cf730995e8",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "README.md",
-      "sha256": "6a3744caf25eea117b8f6c80ebcd19b4d6eee425a3d780579171f03608487111",
+      "sha256": "336650ee99e2f4101a0e17e91407049975bc37206e96d2dc4307f5fbad14594e",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SHA256SUMS.txt",
-      "sha256": "9abd1e1974a2aeba7c2163f387c9f39c434ab7100c53cfe3709136b8cca47c97",
+      "sha256": "8384527d5c38f247287aa2b535d2cc256088627f4f7b3d36f6d8c7620d4af728",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SOURCE_PROVENANCE.json",
-      "sha256": "e4bfc6469bed4cd8bdf983d440f5432c485fd8d9a6f066ae0dcec8ae3d4c60f2",
+      "sha256": "b0a4ee0f099c0f3f1d54a9bb6dc61bc490df969696d39fd8537c71e7732c2ab3",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "path": "verification/TOPIC_SCOPE_INDEX.json",
-      "sha256": "6471f53f00a9b33ab10129a067caccb06ccf00ff09db1a0af912aec3baefce3b",
+      "sha256": "91371359cee02de7058bc025937ba78563259b5413bd41d32f3eda9b6d9cf6cd",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -185,5 +185,11 @@
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     }
   ],
-  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence.",
+  "repository_rename": {
+    "previous_slug": "malsburg-1637",
+    "current_slug": "malsburg-cipher-letter-1637",
+    "date_utc": "2026-10-06",
+    "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  }
 }

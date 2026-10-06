@@ -1,4 +1,4 @@
-# malsburg-1637
+# Malsburg’s cipher letter (1637)
 
 510-letter alphabetic-block reading proposal. Unresolved markers, literal defects and missing historical alphabet.json remain explicit. Credit Bourdeau and the separately acknowledged later contribution.
 
