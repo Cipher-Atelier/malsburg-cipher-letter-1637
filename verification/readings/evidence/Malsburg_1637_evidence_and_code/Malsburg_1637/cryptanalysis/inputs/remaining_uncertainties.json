@@ -1,0 +1,87 @@
+[
+  {
+    "line": 5,
+    "source_unit": 27,
+    "best": "u",
+    "alternatives": [
+      "u",
+      "ü"
+    ],
+    "confidence": "medium",
+    "kind": "diacritic",
+    "anchor": "line5_u.png",
+    "note": "No independent mark visible; a lost/omitted mark cannot be ruled out. Do not force a distinct cipher alphabet value."
+  },
+  {
+    "line": 7,
+    "source_unit": 31,
+    "best": "l",
+    "alternatives": [
+      "l",
+      "ſ",
+      "overlap/no independent letter"
+    ],
+    "confidence": "medium-high for one independent upright; medium for Latin letter identity",
+    "kind": "upright-overlap",
+    "anchor": "line7_xlpx.png",
+    "note": "A hooked top and curved foot appear independent despite the altered g above. Keep under review."
+  },
+  {
+    "line": 8,
+    "source_unit": 3,
+    "best": "[cancelled_patch]",
+    "alternatives": [
+      "cancelled material, zero retained cipher symbols",
+      "one or more obscured cipher symbols"
+    ],
+    "confidence": "unresolved",
+    "kind": "count",
+    "anchor": "line8_blot.png",
+    "note": "Crosshatched/overwritten patch. Underlying sequence and whether it should remain in cipher stream cannot be read. A single placeholder does not prove one position."
+  },
+  {
+    "line": 9,
+    "source_unit": [
+      2,
+      3,
+      4
+    ],
+    "best": "lll",
+    "alternatives": [
+      "lll",
+      "l/ſ labels for retained upright strokes; upper detail partly crossed"
+    ],
+    "confidence": "medium-high for three upright strokes, medium for Latin identities",
+    "kind": "cross-line-overlap",
+    "anchor": "line9_start.png",
+    "note": "Three baseline-footed upright forms follow s; patch and preceding z tail overlap upper details. Do not infer their plaintext."
+  },
+  {
+    "line": 2,
+    "source_unit": 33,
+    "best": "[L-like][L-like]",
+    "alternatives": [
+      "LL letter labels",
+      "11 numeral labels",
+      "other repeated special signs"
+    ],
+    "confidence": "high for two large angular signs; unresolved meaning",
+    "kind": "marker",
+    "anchor": "line2_LL.png",
+    "note": "Pair is separated from surrounding alphabetic run by dots. Whether it consumes 0, 1, or 2 cipher positions is not visually established."
+  },
+  {
+    "line": 5,
+    "source_unit": 49,
+    "best": "[L-like][L-like]",
+    "alternatives": [
+      "LL letter labels",
+      "11 numeral labels",
+      "other repeated special signs"
+    ],
+    "confidence": "high for two large angular signs; unresolved meaning",
+    "kind": "marker",
+    "anchor": "line5_LL.png",
+    "note": "Second occurrence of same two-sign form. Whether it consumes 0, 1, or 2 cipher positions is not visually established."
+  }
+]

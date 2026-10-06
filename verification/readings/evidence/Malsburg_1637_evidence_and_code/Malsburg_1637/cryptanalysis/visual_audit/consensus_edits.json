@@ -1,0 +1,648 @@
+[
+  {
+    "line": 1,
+    "source_unit": 28,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line1_q.png",
+    "original_bbox_xyxy": [
+      930,
+      2940,
+      1120,
+      3150
+    ],
+    "visual_reason": "Straight descender reaches the following line; no descending loop.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Oval head with straight descender continuing into the next row; no lower loop. Supports a separate straight-tail shape class."
+  },
+  {
+    "line": 1,
+    "source_unit": 55,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line1_final_q.png",
+    "original_bbox_xyxy": [
+      1710,
+      2890,
+      1890,
+      3200
+    ],
+    "visual_reason": "Very long straight descender crosses line 2 and ends near line 3; looped g elsewhere differs.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Terminal oval head has a long straight descending stroke across row 2, clearly distinct from nearby looped g."
+  },
+  {
+    "line": 2,
+    "source_unit": 15,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Straight descender after k; it creates the apparent l at line 3 source unit 14.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Straight-tail head after k; its continuous tail enters row 3 between p and marked u."
+  },
+  {
+    "line": 2,
+    "source_unit": 25,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Straight descender at the end of raq; it creates apparent l on line 3 unit 25.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Head after ra has a straight tail that continues into row 3 before p."
+  },
+  {
+    "line": 3,
+    "source_unit": 10,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Stroke after a continues directly from line 2 p, without an independent letter head/foot.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Stroke after a is continuously attached to the p head in row 2; no independent l hook or foot on row 3."
+  },
+  {
+    "line": 3,
+    "source_unit": 14,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Stroke between p and marked u continues from line 2 q.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Apparent upright after p belongs to the straight descender of row-2 source15; no separate l head."
+  },
+  {
+    "line": 3,
+    "source_unit": 20,
+    "from": "ü",
+    "to": "ii",
+    "confidence": "high",
+    "alternative": "ü",
+    "anchor_file": "line3_ii.png",
+    "original_bbox_xyxy": [
+      650,
+      3050,
+      875,
+      3180
+    ],
+    "visual_reason": "Two separately dotted, separate i strokes; unlike connected u with curled overhead mark.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Two separate short i stems, each with its own dot. The stems are not joined into the manuscript's u-shaped bowl."
+  },
+  {
+    "line": 3,
+    "source_unit": 25,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Upright between c and p is the straight tail of line 2 q.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright between c and p is continuously attached to row-2 source25; no independent l head or foot."
+  },
+  {
+    "line": 3,
+    "source_unit": 28,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line2_gqs.png",
+    "original_bbox_xyxy": [
+      835,
+      2980,
+      1050,
+      3190
+    ],
+    "visual_reason": "Straight-tail q form; its descender enters line 4 after k.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "The first glyph between the two k shapes has a straight tail; its neighboring g has an unmistakable lower loop."
+  },
+  {
+    "line": 3,
+    "source_unit": 42,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line4_rightjoins.png",
+    "original_bbox_xyxy": [
+      1100,
+      3010,
+      1660,
+      3290
+    ],
+    "visual_reason": "Straight-tail q form in keqelt.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph in ke?elt has a straight descending tail, not a closed lower g loop."
+  },
+  {
+    "line": 3,
+    "source_unit": 64,
+    "from": "l",
+    "to": "lp",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_end.png",
+    "original_bbox_xyxy": [
+      1670,
+      2990,
+      1910,
+      3220
+    ],
+    "visual_reason": "Retain existing final l and append separately visible p bowl and descending stem; p tail reaches line 4.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "The final l has its own hook/foot, followed by an additional p bowl and stem that crosses row 4. Distinct from the row-1 terminal q tail."
+  },
+  {
+    "line": 4,
+    "source_unit": 22,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line4_earlyjoins.png",
+    "original_bbox_xyxy": [
+      470,
+      3020,
+      950,
+      3300
+    ],
+    "visual_reason": "Upright immediately after t is the descending stem of line 3 p.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Thin upright immediately after t is the continuation of row-3 p, with no separate row-4 l head or foot."
+  },
+  {
+    "line": 4,
+    "source_unit": 25,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Upright after k continues from line 3 q.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright after k is the continuous descender of row-3 source28."
+  },
+  {
+    "line": 4,
+    "source_unit": 45,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_endjoins.png",
+    "original_bbox_xyxy": [
+      1330,
+      2980,
+      1690,
+      3250
+    ],
+    "visual_reason": "Upright after t comes from the p in line 3 opn.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright after t is continuously attached to the row-3 p above (source50)."
+  },
+  {
+    "line": 4,
+    "source_unit": 47,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line5_leap.png",
+    "original_bbox_xyxy": [
+      1390,
+      3100,
+      1650,
+      3350
+    ],
+    "visual_reason": "Straight-tail q form; its tail creates apparent l in line 5 peafo.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph after k has a straight tail that passes between p and e on row 5; adjacent g has a lower loop."
+  },
+  {
+    "line": 4,
+    "source_unit": 58,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_end.png",
+    "original_bbox_xyxy": [
+      1670,
+      2990,
+      1910,
+      3220
+    ],
+    "visual_reason": "Final upright belongs to the newly observed line 3 p, rather than a line 4 l.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Terminal upright after z is the added row-3 p stem; the z has its own curling lower stroke."
+  },
+  {
+    "line": 5,
+    "source_unit": 32,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line7_xlpx.png",
+    "original_bbox_xyxy": [
+      1010,
+      3160,
+      1200,
+      3480
+    ],
+    "visual_reason": "Straight descending tail from q passes through following line.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph after kwa has a straight tail crossing the next row; no g loop."
+  },
+  {
+    "line": 5,
+    "source_unit": 37,
+    "from": "?",
+    "to": "",
+    "confidence": "high",
+    "alternative": "?",
+    "anchor_file": "line5_tmark.png",
+    "original_bbox_xyxy": [
+      1250,
+      3150,
+      1390,
+      3340
+    ],
+    "visual_reason": "No additional baseline glyph. Curl under t is positioned over line 6 u, giving ü there.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Question-like curl lies below the row-5 baseline and directly over row-6 u. No independent row-5 letter body is visible."
+  },
+  {
+    "line": 5,
+    "source_unit": 44,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line5_leap.png",
+    "original_bbox_xyxy": [
+      1390,
+      3100,
+      1650,
+      3350
+    ],
+    "visual_reason": "Upright between p and e continues from line 4 q.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright between p and e is row-4 source47's straight tail; no independent l shape."
+  },
+  {
+    "line": 6,
+    "source_unit": 22,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line6_joins.png",
+    "original_bbox_xyxy": [
+      650,
+      3160,
+      1020,
+      3370
+    ],
+    "visual_reason": "One hooked l and p visible after o; supposed second l is the loop/stroke from g above.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "After o there is one hooked l and a p. The apparent intervening upright belongs to the closed loop/tail of g above."
+  },
+  {
+    "line": 6,
+    "source_unit": 38,
+    "from": "u",
+    "to": "ü",
+    "confidence": "high",
+    "alternative": "u",
+    "anchor_file": "line5_tmark.png",
+    "original_bbox_xyxy": [
+      1250,
+      3150,
+      1390,
+      3340
+    ],
+    "visual_reason": "Curled overhead u-mark visible; it was apparently copied as ? on line 5.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Detached curled mark centered above the u-shaped bowl matches other marked-u forms and is the same stroke removed from row 5."
+  },
+  {
+    "line": 6,
+    "source_unit": 40,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line8_klaq.png",
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "visual_reason": "Straight-tail q before f; stem descends toward the following line.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph before f has a straight tail; no lower loop. The tail overlaps the q at row-7 source39."
+  },
+  {
+    "line": 6,
+    "source_unit": 44,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line6_fogle.png",
+    "original_bbox_xyxy": [
+      1310,
+      3140,
+      1600,
+      3420
+    ],
+    "visual_reason": "Upright between g and e is line 5 p descender.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Vertical between g and e continues from row-5 p; no independent l hook/foot."
+  },
+  {
+    "line": 7,
+    "source_unit": 2,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line7_start.png",
+    "original_bbox_xyxy": [
+      190,
+      3220,
+      700,
+      3430
+    ],
+    "visual_reason": "Upright between a and f is line 6 p descender.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright between a and f continues directly from the row-6 p head. The f has its own looped ascender and cross-stroke."
+  },
+  {
+    "line": 7,
+    "source_unit": 23,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line7_ht.png",
+    "original_bbox_xyxy": [
+      785,
+      3250,
+      1065,
+      3440
+    ],
+    "visual_reason": "Upright between ii and g continues directly from line 6 p.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Upright after the two i shapes continues directly from row-6 p; no additional l head/foot."
+  },
+  {
+    "line": 7,
+    "source_unit": 26,
+    "from": "z",
+    "to": "t",
+    "confidence": "high",
+    "alternative": "z",
+    "anchor_file": "line7_ht.png",
+    "original_bbox_xyxy": [
+      785,
+      3250,
+      1065,
+      3440
+    ],
+    "visual_reason": "Short t with baseline foot and cross stroke; lacks deep curling tail of z. Curl below is the mark over line 8 u.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "A short crossed stem with baseline foot matches t. The deep curve nearby comes from the row above, and the separate lower curl belongs above the next row's u."
+  },
+  {
+    "line": 8,
+    "source_unit": 36,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line8_klaq.png",
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "visual_reason": "Upright after k is the tail of line 7 source39 q, not the g at source37.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Delete: the upright between k and a continues from row-7 source39 q. Correct the original audit's attribution to source37; deletion itself remains supported."
+  },
+  {
+    "line": 8,
+    "source_unit": 40,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line8_gll.png",
+    "original_bbox_xyxy": [
+      1310,
+      3280,
+      1640,
+      3490
+    ],
+    "visual_reason": "The apparent first l between g and real hooked l is a looped g-descender from line 7.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "The first apparent upright between g and the hooked l is the lower loop of row-7 g. The following l has a separate hook/foot and is retained."
+  },
+  {
+    "line": 9,
+    "source_unit": 17,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qs.png",
+    "original_bbox_xyxy": [
+      650,
+      3340,
+      1010,
+      3560
+    ],
+    "visual_reason": "Straight tail after k, not looped g.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph after k has a straight descending tail crossing the next row; no closed lower loop."
+  },
+  {
+    "line": 9,
+    "source_unit": 19,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qs.png",
+    "original_bbox_xyxy": [
+      650,
+      3340,
+      1010,
+      3560
+    ],
+    "visual_reason": "Straight-tail q after z; tail crosses the next row.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph after z has a straight descending tail; its overlap with row-10 t does not make a g loop."
+  },
+  {
+    "line": 9,
+    "source_unit": 27,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qtl.png",
+    "original_bbox_xyxy": [
+      1010,
+      3320,
+      1210,
+      3560
+    ],
+    "visual_reason": "Long straight-tail q after nn.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Glyph after nn has an especially long straight descender and oval head, unlike g."
+  },
+  {
+    "line": 9,
+    "source_unit": 29,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line9_qtl.png",
+    "original_bbox_xyxy": [
+      1010,
+      3320,
+      1210,
+      3560
+    ],
+    "visual_reason": "No independent l head/foot. Upright just after t aligns with line8 source28 q; neighboring p tail crosses c region. Delete as q/p-cluster overlap.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "No independent l head/foot between t and c. The uprights are descenders from the row-8 q/p cluster. More specifically, the isolated vertical just after t aligns with row-8 q (source28), while p descends into the c region; original p-only attribution is imprecise."
+  },
+  {
+    "line": 10,
+    "source_unit": 12,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line10_start.png",
+    "original_bbox_xyxy": [
+      185,
+      3420,
+      680,
+      3590
+    ],
+    "visual_reason": "Oval head with a long straight downward tail, distinct from g shape.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Oval head followed by long straight downward tail; distinct from looped-g forms."
+  },
+  {
+    "line": 10,
+    "source_unit": 24,
+    "from": "j",
+    "to": "ÿ",
+    "confidence": "high",
+    "alternative": "j",
+    "anchor_file": "line10_end.png",
+    "original_bbox_xyxy": [
+      790,
+      3380,
+      1110,
+      3570
+    ],
+    "visual_reason": "Forked y body with two separate dots; same form as other ÿ signs, not a singly dotted j.",
+    "status": "agreed visual proposal",
+    "independent_decision": "agree",
+    "independent_visual_reason": "Forked y-shaped body with two separately visible overhead dots; same form as other marked-y signs, not j."
+  }
+]

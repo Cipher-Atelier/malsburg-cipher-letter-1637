@@ -1,0 +1,615 @@
+[
+  {
+    "line": 1,
+    "source_unit": 28,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line1_q.png",
+    "original_bbox_xyxy": [
+      930,
+      2940,
+      1120,
+      3150
+    ],
+    "visual_reason": "Straight descender reaches the following line; no descending loop.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 1,
+    "source_unit": 55,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line1_final_q.png",
+    "original_bbox_xyxy": [
+      1710,
+      2890,
+      1890,
+      3200
+    ],
+    "visual_reason": "Very long straight descender crosses line 2 and ends near line 3; looped g elsewhere differs.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 2,
+    "source_unit": 15,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Straight descender after k; it creates the apparent l at line 3 source unit 14.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 2,
+    "source_unit": 25,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Straight descender at the end of raq; it creates apparent l on line 3 unit 25.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 10,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Stroke after a continues directly from line 2 p, without an independent letter head/foot.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 14,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_leftjoins.png",
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "visual_reason": "Stroke between p and marked u continues from line 2 q.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 20,
+    "from": "ü",
+    "to": "ii",
+    "confidence": "high",
+    "alternative": "ü",
+    "anchor_file": "line3_ii.png",
+    "original_bbox_xyxy": [
+      650,
+      3050,
+      875,
+      3180
+    ],
+    "visual_reason": "Two separately dotted, separate i strokes; unlike connected u with curled overhead mark.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 25,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Upright between c and p is the straight tail of line 2 q.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 28,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line2_gqs.png",
+    "original_bbox_xyxy": [
+      835,
+      2980,
+      1050,
+      3190
+    ],
+    "visual_reason": "Straight-tail q form; its descender enters line 4 after k.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 42,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line4_rightjoins.png",
+    "original_bbox_xyxy": [
+      1100,
+      3010,
+      1660,
+      3290
+    ],
+    "visual_reason": "Straight-tail q form in keqelt.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 3,
+    "source_unit": 64,
+    "from": "l",
+    "to": "lp",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_end.png",
+    "original_bbox_xyxy": [
+      1670,
+      2990,
+      1910,
+      3220
+    ],
+    "visual_reason": "Retain existing final l and append separately visible p bowl and descending stem; p tail reaches line 4.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 4,
+    "source_unit": 22,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line4_earlyjoins.png",
+    "original_bbox_xyxy": [
+      470,
+      3020,
+      950,
+      3300
+    ],
+    "visual_reason": "Upright immediately after t is the descending stem of line 3 p.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 4,
+    "source_unit": 25,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_middlejoins.png",
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "visual_reason": "Upright after k continues from line 3 q.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 4,
+    "source_unit": 45,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_endjoins.png",
+    "original_bbox_xyxy": [
+      1330,
+      2980,
+      1690,
+      3250
+    ],
+    "visual_reason": "Upright after t comes from the p in line 3 opn.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 4,
+    "source_unit": 47,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line5_leap.png",
+    "original_bbox_xyxy": [
+      1390,
+      3100,
+      1650,
+      3350
+    ],
+    "visual_reason": "Straight-tail q form; its tail creates apparent l in line 5 peafo.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 4,
+    "source_unit": 58,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line3_end.png",
+    "original_bbox_xyxy": [
+      1670,
+      2990,
+      1910,
+      3220
+    ],
+    "visual_reason": "Final upright belongs to the newly observed line 3 p, rather than a line 4 l.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 5,
+    "source_unit": 27,
+    "from": "ü",
+    "to": "u",
+    "confidence": "medium",
+    "alternative": "ü",
+    "anchor_file": "line5_u.png",
+    "original_bbox_xyxy": [
+      915,
+      3110,
+      1180,
+      3310
+    ],
+    "visual_reason": "No independent curled/double-point diacritic is visible over u. Nearby curl is continuous with line 4 h descender. Keep ü as alternative.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 5,
+    "source_unit": 32,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line7_xlpx.png",
+    "original_bbox_xyxy": [
+      1010,
+      3160,
+      1200,
+      3480
+    ],
+    "visual_reason": "Straight descending tail from q passes through following line.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 5,
+    "source_unit": 37,
+    "from": "?",
+    "to": "",
+    "confidence": "high",
+    "alternative": "?",
+    "anchor_file": "line5_tmark.png",
+    "original_bbox_xyxy": [
+      1250,
+      3150,
+      1390,
+      3340
+    ],
+    "visual_reason": "No additional baseline glyph. Curl under t is positioned over line 6 u, giving ü there.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 5,
+    "source_unit": 44,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line5_leap.png",
+    "original_bbox_xyxy": [
+      1390,
+      3100,
+      1650,
+      3350
+    ],
+    "visual_reason": "Upright between p and e continues from line 4 q.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 6,
+    "source_unit": 22,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line6_joins.png",
+    "original_bbox_xyxy": [
+      650,
+      3160,
+      1020,
+      3370
+    ],
+    "visual_reason": "One hooked l and p visible after o; supposed second l is the loop/stroke from g above.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 6,
+    "source_unit": 38,
+    "from": "u",
+    "to": "ü",
+    "confidence": "high",
+    "alternative": "u",
+    "anchor_file": "line5_tmark.png",
+    "original_bbox_xyxy": [
+      1250,
+      3150,
+      1390,
+      3340
+    ],
+    "visual_reason": "Curled overhead u-mark visible; it was apparently copied as ? on line 5.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 6,
+    "source_unit": 40,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line8_klaq.png",
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "visual_reason": "Straight-tail q before f; stem descends toward the following line.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 6,
+    "source_unit": 44,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line6_fogle.png",
+    "original_bbox_xyxy": [
+      1310,
+      3140,
+      1600,
+      3420
+    ],
+    "visual_reason": "Upright between g and e is line 5 p descender.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 7,
+    "source_unit": 2,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line7_start.png",
+    "original_bbox_xyxy": [
+      190,
+      3220,
+      700,
+      3430
+    ],
+    "visual_reason": "Upright between a and f is line 6 p descender.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 7,
+    "source_unit": 23,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line7_ht.png",
+    "original_bbox_xyxy": [
+      785,
+      3250,
+      1065,
+      3440
+    ],
+    "visual_reason": "Upright between ii and g continues directly from line 6 p.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 7,
+    "source_unit": 26,
+    "from": "z",
+    "to": "t",
+    "confidence": "high",
+    "alternative": "z",
+    "anchor_file": "line7_ht.png",
+    "original_bbox_xyxy": [
+      785,
+      3250,
+      1065,
+      3440
+    ],
+    "visual_reason": "Short t with baseline foot and cross stroke; lacks deep curling tail of z. Curl below is the mark over line 8 u.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 7,
+    "source_unit": 37,
+    "from": "g",
+    "to": "q",
+    "confidence": "rejected",
+    "alternative": "g",
+    "anchor_file": "line8_klaq.png",
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "visual_reason": "A closed lower loop belongs to this glyph, establishing g-shape. The adjacent q is source39, not source37. This proposal was an attribution error.",
+    "status": "rejected after independent pixel review; preserve original g",
+    "resolution": "g"
+  },
+  {
+    "line": 8,
+    "source_unit": 36,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line8_klaq.png",
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "visual_reason": "Upright after k is the tail of line 7 source39 q, not the g at source37.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 8,
+    "source_unit": 40,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line8_gll.png",
+    "original_bbox_xyxy": [
+      1310,
+      3280,
+      1640,
+      3490
+    ],
+    "visual_reason": "The apparent first l between g and real hooked l is a looped g-descender from line 7.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 9,
+    "source_unit": 17,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qs.png",
+    "original_bbox_xyxy": [
+      650,
+      3340,
+      1010,
+      3560
+    ],
+    "visual_reason": "Straight tail after k, not looped g.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 9,
+    "source_unit": 19,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qs.png",
+    "original_bbox_xyxy": [
+      650,
+      3340,
+      1010,
+      3560
+    ],
+    "visual_reason": "Straight-tail q after z; tail crosses the next row.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 9,
+    "source_unit": 27,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line9_qtl.png",
+    "original_bbox_xyxy": [
+      1010,
+      3320,
+      1210,
+      3560
+    ],
+    "visual_reason": "Long straight-tail q after nn.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 9,
+    "source_unit": 29,
+    "from": "l",
+    "to": "",
+    "confidence": "high",
+    "alternative": "l",
+    "anchor_file": "line9_qtl.png",
+    "original_bbox_xyxy": [
+      1010,
+      3320,
+      1210,
+      3560
+    ],
+    "visual_reason": "Upright between t and c continues from the p on line 8.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 10,
+    "source_unit": 12,
+    "from": "g",
+    "to": "q",
+    "confidence": "high",
+    "alternative": "g",
+    "anchor_file": "line10_start.png",
+    "original_bbox_xyxy": [
+      185,
+      3420,
+      680,
+      3590
+    ],
+    "visual_reason": "Oval head with a long straight downward tail, distinct from g shape.",
+    "status": "single-reviewer proposal; independent review pending"
+  },
+  {
+    "line": 10,
+    "source_unit": 24,
+    "from": "j",
+    "to": "ÿ",
+    "confidence": "high",
+    "alternative": "j",
+    "anchor_file": "line10_end.png",
+    "original_bbox_xyxy": [
+      790,
+      3380,
+      1110,
+      3570
+    ],
+    "visual_reason": "Forked y body with two separate dots; same form as other ÿ signs, not a singly dotted j.",
+    "status": "single-reviewer proposal; independent review pending"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/normalized_ciphertext.txt",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "4a6444d0bdd9b1da52ecd3b4361d34d79f95457720e0a8854eb2dbe2144449ae",
+      "source_sha256": "4a6444d0bdd9b1da52ecd3b4361d34d79f95457720e0a8854eb2dbe2144449ae",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/literal_plaintext.txt",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "872c9ea8dccfd921c5f95b489c9fbd62b2bd3436a2988fd37080cbc1f8c0e556",
+      "source_sha256": "872c9ea8dccfd921c5f95b489c9fbd62b2bd3436a2988fd37080cbc1f8c0e556",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/diplomatic_decipherment.txt",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "002ea5dd742413050a7d6a714830a3d4c23a3958278bde2a43d7dc70a15f9a1a",
+      "source_sha256": "002ea5dd742413050a7d6a714830a3d4c23a3958278bde2a43d7dc70a15f9a1a",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/reviewed_variant_ensemble.jsonl",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "3025f452048837e5b4053278082f937f62029f62206b2df515727d37ae58f86e",
+      "source_sha256": "3025f452048837e5b4053278082f937f62029f62206b2df515727d37ae58f86e",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/visual_unit_index_v2.tsv",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "3f0ae0cc2a683262180f0cd52931fe161e3eaf984ccf31d827bba0d6f62a8d2d",
+      "source_sha256": "3f0ae0cc2a683262180f0cd52931fe161e3eaf984ccf31d827bba0d6f62a8d2d",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/confidence_ledger_v2.json",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "146f25e599ff7d3de0e196e0be575f7e82fcbe5c65596b53d7e38fe06b4b3a4b",
+      "source_sha256": "146f25e599ff7d3de0e196e0be575f7e82fcbe5c65596b53d7e38fe06b4b3a4b",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/independent_review_36.json",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "b8f2211163319081d6505ada394e5d3cd642f34e1606477300d86ccea4a2b116",
+      "source_sha256": "b8f2211163319081d6505ada394e5d3cd642f34e1606477300d86ccea4a2b116",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/remaining_uncertainties.json",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "6ea37a31145d2f77814e90628970636a6f7cb25eb01d1bb2e4db2b4b2e3daa99",
+      "source_sha256": "6ea37a31145d2f77814e90628970636a6f7cb25eb01d1bb2e4db2b4b2e3daa99",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/crop_anchors.json",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "7ddd1fa99f6607864f2368b81aa7b43f1abd823653d9a2cf2f06685f7043412c",
+      "source_sha256": "7ddd1fa99f6607864f2368b81aa7b43f1abd823653d9a2cf2f06685f7043412c",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/consensus_edits.json",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "645d28f0d4ac2f2d98e2ca3f311a1d57440bb1fc4d26b695810c27e1da7a6b3a",
+      "source_sha256": "645d28f0d4ac2f2d98e2ca3f311a1d57440bb1fc4d26b695810c27e1da7a6b3a",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/independent_validation/independent_glyph_alignment.csv",
+      "topic": "malsburg-1637",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "e14e70875aaeb4602ded43708c0e31f4d0ab08511d9027c60ceb5b5a70d1c6b3",
+      "source_sha256": "e14e70875aaeb4602ded43708c0e31f4d0ab08511d9027c60ceb5b5a70d1c6b3",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Malsburg historical transcript originated in Daniel Bourdeau work. The retained revised ciphertext is already fully public in the pinned article; attribution remains explicit. No general scan licence follows from Bourdeau report CC BY 4.0.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}

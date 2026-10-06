@@ -1,0 +1,14 @@
+{
+  "malsburg-1637": {
+    "status": "PASS",
+    "scope": "mechanical replay only",
+    "positions": 510,
+    "ciphertext_sha256": "c9fd887a1db86f327b5d68cc0ad3bdaff27356e37bf142b0d056f95ae2460d29",
+    "literal_sha256": "16f6843b74bd7703d2ad64129a795c863e753904af7d6c5f590cbd54e952f10d",
+    "compatible_visual_variants": [
+      "u_blot0_num-omit_LL-omit",
+      "marked_u_blot0_num-omit_LL-omit"
+    ],
+    "historical_branch1_dependency_present": false
+  }
+}

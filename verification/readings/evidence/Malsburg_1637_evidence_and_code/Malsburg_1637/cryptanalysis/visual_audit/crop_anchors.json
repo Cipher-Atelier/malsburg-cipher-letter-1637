@@ -1,0 +1,292 @@
+{
+  "line1_q.png": {
+    "original_bbox_xyxy": [
+      930,
+      2940,
+      1120,
+      3150
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line1_final_q.png": {
+    "original_bbox_xyxy": [
+      1710,
+      2890,
+      1890,
+      3200
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line3_leftjoins.png": {
+    "original_bbox_xyxy": [
+      370,
+      2980,
+      795,
+      3230
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line3_middlejoins.png": {
+    "original_bbox_xyxy": [
+      780,
+      2980,
+      980,
+      3250
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line3_ii.png": {
+    "original_bbox_xyxy": [
+      650,
+      3050,
+      875,
+      3180
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line2_gqs.png": {
+    "original_bbox_xyxy": [
+      835,
+      2980,
+      1050,
+      3190
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line4_rightjoins.png": {
+    "original_bbox_xyxy": [
+      1100,
+      3010,
+      1660,
+      3290
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line3_end.png": {
+    "original_bbox_xyxy": [
+      1670,
+      2990,
+      1910,
+      3220
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line4_earlyjoins.png": {
+    "original_bbox_xyxy": [
+      470,
+      3020,
+      950,
+      3300
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line3_endjoins.png": {
+    "original_bbox_xyxy": [
+      1330,
+      2980,
+      1690,
+      3250
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line5_leap.png": {
+    "original_bbox_xyxy": [
+      1390,
+      3100,
+      1650,
+      3350
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line5_u.png": {
+    "original_bbox_xyxy": [
+      915,
+      3110,
+      1180,
+      3310
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line7_xlpx.png": {
+    "original_bbox_xyxy": [
+      1010,
+      3160,
+      1200,
+      3480
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line5_tmark.png": {
+    "original_bbox_xyxy": [
+      1250,
+      3150,
+      1390,
+      3340
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line6_joins.png": {
+    "original_bbox_xyxy": [
+      650,
+      3160,
+      1020,
+      3370
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line8_klaq.png": {
+    "original_bbox_xyxy": [
+      1280,
+      3220,
+      1500,
+      3500
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line6_fogle.png": {
+    "original_bbox_xyxy": [
+      1310,
+      3140,
+      1600,
+      3420
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line7_start.png": {
+    "original_bbox_xyxy": [
+      190,
+      3220,
+      700,
+      3430
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line7_ht.png": {
+    "original_bbox_xyxy": [
+      785,
+      3250,
+      1065,
+      3440
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line8_gll.png": {
+    "original_bbox_xyxy": [
+      1310,
+      3280,
+      1640,
+      3490
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line9_qs.png": {
+    "original_bbox_xyxy": [
+      650,
+      3340,
+      1010,
+      3560
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line9_qtl.png": {
+    "original_bbox_xyxy": [
+      1010,
+      3320,
+      1210,
+      3560
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line10_start.png": {
+    "original_bbox_xyxy": [
+      185,
+      3420,
+      680,
+      3590
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line10_end.png": {
+    "original_bbox_xyxy": [
+      790,
+      3380,
+      1110,
+      3570
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line2_LL.png": {
+    "original_bbox_xyxy": [
+      900,
+      2960,
+      1200,
+      3120
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line5_LL.png": {
+    "original_bbox_xyxy": [
+      1530,
+      3130,
+      1890,
+      3290
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line8_blot.png": {
+    "original_bbox_xyxy": [
+      190,
+      3330,
+      520,
+      3500
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line9_start.png": {
+    "original_bbox_xyxy": [
+      190,
+      3340,
+      600,
+      3510
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  },
+  "line10_t_overlap.png": {
+    "original_bbox_xyxy": [
+      785,
+      3375,
+      930,
+      3550
+    ],
+    "source": "malsburg_f12.jpg",
+    "coordinate_origin": "top-left; right and bottom exclusive"
+  }
+}

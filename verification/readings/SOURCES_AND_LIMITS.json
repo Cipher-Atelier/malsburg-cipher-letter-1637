@@ -1,0 +1,19 @@
+{
+  "malsburg-1637": {
+    "published_scope": "510-letter alphabetic block only; unknown [43]/[45]/[LL] and blemishes retained.",
+    "published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/malsburg-1637/article.md",
+    "primary_and_prior_sources": [
+      "https://maxim-egorov.dev/research/malsburg-1637/",
+      "https://maxim-egorov.dev/downloads/research-archive/malsburg-1637-before-2026-10-05.txt",
+      "https://github.com/dbourdeau/cyphersolver/blob/ceb348247471669ddf83f4c9061266d660d22879/docs/malsburg1637.html",
+      "https://github.com/dbourdeau/cyphersolver/tree/ceb348247471669ddf83f4c9061266d660d22879/targets/malsburg1637",
+      "https://dbourdeau.github.io/cyphersolver/malsburg1637.html",
+      "https://github.com/dbourdeau/cyphersolver/tree/main/targets/malsburg1637",
+      "https://github.com/dbourdeau/cyphersolver/commit/51fb42c3b4adf5e8eb8823cfed63c9cc8ac80afe",
+      "https://crypto.hcportal.eu/dashboard/cryptograms/497",
+      "https://api.hcportal.eu/media/1395/79511677516420.jpg",
+      "https://maxim-egorov.dev/research/malsburg-1637-text-and-code.zip"
+    ],
+    "remaining_limits": "Historical branch1.py refers to absent alphabet.json; statistical discovery and pixels were not rerun."
+  }
+}

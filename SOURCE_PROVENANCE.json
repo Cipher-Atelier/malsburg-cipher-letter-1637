@@ -1,0 +1,189 @@
+{
+  "source_repository": "https://github.com/cayde-6/historical-cipher-research",
+  "source_baseline_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "approved_source_archive_sha256": "82369eb38788028640501edfe272cd91d8ce6158977465f78333ab195d7ce59b",
+  "publication_date_utc": "2026-10-06",
+  "history": "Clean publication commit; original Git history retained without rewriting or force-push.",
+  "retained_inputs": [
+    {
+      "source_path": "malsburg-1637/README.md",
+      "destination_path": "malsburg-1637/README.md",
+      "source_sha256": "b2e23f138759779d0d51587a798c4483fb3cd8883c2a8734a41ebfa2660d48e3",
+      "destination_sha256": "b2e23f138759779d0d51587a798c4483fb3cd8883c2a8734a41ebfa2660d48e3",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "malsburg-1637/article.md",
+      "destination_path": "malsburg-1637/article.md",
+      "source_sha256": "fc9155bb068dd4457aeb4b7cbbde49b907e130d1110cefc22c3b06238d69e7eb",
+      "destination_sha256": "fc9155bb068dd4457aeb4b7cbbde49b907e130d1110cefc22c3b06238d69e7eb",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "malsburg-1637/methods.md",
+      "destination_path": "malsburg-1637/methods.md",
+      "source_sha256": "fd809a3570bae0e6e2f85ad25ef9e2075d6988ded861626a5dd6b0ae754fb131",
+      "destination_sha256": "fd809a3570bae0e6e2f85ad25ef9e2075d6988ded861626a5dd6b0ae754fb131",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "malsburg-1637/readings.md",
+      "destination_path": "malsburg-1637/readings.md",
+      "source_sha256": "ef968efc7446219f2ba66edb90f8276b6f8c541cf499fe9cfaaa24f35cf08f4f",
+      "destination_sha256": "ef968efc7446219f2ba66edb90f8276b6f8c541cf499fe9cfaaa24f35cf08f4f",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "malsburg-1637/sources.md",
+      "destination_path": "malsburg-1637/sources.md",
+      "source_sha256": "f895306e8d2025fd46b0add56289966dd6bfd1ee37538ecd57a6bc672abac7a0",
+      "destination_sha256": "f895306e8d2025fd46b0add56289966dd6bfd1ee37538ecd57a6bc672abac7a0",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/diplomatic_decipherment.txt",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/diplomatic_decipherment.txt",
+      "source_sha256": "002ea5dd742413050a7d6a714830a3d4c23a3958278bde2a43d7dc70a15f9a1a",
+      "destination_sha256": "002ea5dd742413050a7d6a714830a3d4c23a3958278bde2a43d7dc70a15f9a1a",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/independent_validation/independent_glyph_alignment.csv",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/independent_validation/independent_glyph_alignment.csv",
+      "source_sha256": "e14e70875aaeb4602ded43708c0e31f4d0ab08511d9027c60ceb5b5a70d1c6b3",
+      "destination_sha256": "e14e70875aaeb4602ded43708c0e31f4d0ab08511d9027c60ceb5b5a70d1c6b3",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/confidence_ledger_v2.json",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/confidence_ledger_v2.json",
+      "source_sha256": "146f25e599ff7d3de0e196e0be575f7e82fcbe5c65596b53d7e38fe06b4b3a4b",
+      "destination_sha256": "146f25e599ff7d3de0e196e0be575f7e82fcbe5c65596b53d7e38fe06b4b3a4b",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/independent_review_36.json",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/independent_review_36.json",
+      "source_sha256": "b8f2211163319081d6505ada394e5d3cd642f34e1606477300d86ccea4a2b116",
+      "destination_sha256": "b8f2211163319081d6505ada394e5d3cd642f34e1606477300d86ccea4a2b116",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/remaining_uncertainties.json",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/remaining_uncertainties.json",
+      "source_sha256": "6ea37a31145d2f77814e90628970636a6f7cb25eb01d1bb2e4db2b4b2e3daa99",
+      "destination_sha256": "6ea37a31145d2f77814e90628970636a6f7cb25eb01d1bb2e4db2b4b2e3daa99",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/reviewed_variant_ensemble.jsonl",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/reviewed_variant_ensemble.jsonl",
+      "source_sha256": "3025f452048837e5b4053278082f937f62029f62206b2df515727d37ae58f86e",
+      "destination_sha256": "3025f452048837e5b4053278082f937f62029f62206b2df515727d37ae58f86e",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/visual_unit_index_v2.tsv",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/inputs/visual_unit_index_v2.tsv",
+      "source_sha256": "3f0ae0cc2a683262180f0cd52931fe161e3eaf984ccf31d827bba0d6f62a8d2d",
+      "destination_sha256": "3f0ae0cc2a683262180f0cd52931fe161e3eaf984ccf31d827bba0d6f62a8d2d",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/literal_plaintext.txt",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/literal_plaintext.txt",
+      "source_sha256": "872c9ea8dccfd921c5f95b489c9fbd62b2bd3436a2988fd37080cbc1f8c0e556",
+      "destination_sha256": "872c9ea8dccfd921c5f95b489c9fbd62b2bd3436a2988fd37080cbc1f8c0e556",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/normalized_ciphertext.txt",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/normalized_ciphertext.txt",
+      "source_sha256": "4a6444d0bdd9b1da52ecd3b4361d34d79f95457720e0a8854eb2dbe2144449ae",
+      "destination_sha256": "4a6444d0bdd9b1da52ecd3b4361d34d79f95457720e0a8854eb2dbe2144449ae",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/consensus_edits.json",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/consensus_edits.json",
+      "source_sha256": "645d28f0d4ac2f2d98e2ca3f311a1d57440bb1fc4d26b695810c27e1da7a6b3a",
+      "destination_sha256": "645d28f0d4ac2f2d98e2ca3f311a1d57440bb1fc4d26b695810c27e1da7a6b3a",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/crop_anchors.json",
+      "destination_path": "verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/visual_audit/crop_anchors.json",
+      "source_sha256": "7ddd1fa99f6607864f2368b81aa7b43f1abd823653d9a2cf2f06685f7043412c",
+      "destination_sha256": "7ddd1fa99f6607864f2368b81aa7b43f1abd823653d9a2cf2f06685f7043412c",
+      "transform": "verbatim retained source"
+    }
+  ],
+  "adapted_files": [
+    {
+      "path": ".gitignore",
+      "sha256": "60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "0f9ff69e6942317b1d1dd2d6bcfdf26a4542271640a657a8edd302a681e03fa4",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "README.md",
+      "sha256": "6a3744caf25eea117b8f6c80ebcd19b4d6eee425a3d780579171f03608487111",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "9abd1e1974a2aeba7c2163f387c9f39c434ab7100c53cfe3709136b8cca47c97",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "sha256": "e4bfc6469bed4cd8bdf983d440f5432c485fd8d9a6f066ae0dcec8ae3d4c60f2",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/README.md",
+      "sha256": "85cb451d6838284ead4ad30f4f07778178354fc128e1fb54ab1bfd17ee6d4631",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/TOPIC_SCOPE_INDEX.json",
+      "sha256": "6471f53f00a9b33ab10129a067caccb06ccf00ff09db1a0af912aec3baefce3b",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/check_all.py",
+      "sha256": "6bcee19dcdafabb325fdce80701f55f27451caac64df83d719dd732d745fef65",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/PUBLIC_FILE_MANIFEST.json",
+      "sha256": "ad12e6065bf91bbc36c18024c28e89cdcf930f8f49c15721f93f56fc485127da",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/README.md",
+      "sha256": "0a462d70ccfa552be01f4673537bde8d3e13433e67b7515693a334e43f518c6c",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/SOURCES_AND_LIMITS.json",
+      "sha256": "840c3ed9268a3d4c69a345b75f59d298a9e92b7f4cdc775ad378d03e2c6f9d44",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/VERIFIED_REPLAY_RESULTS.json",
+      "sha256": "b6504e94d25f0d550fa00f6f6e453bfde2530b944c951c10dea5279450d31359",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/replay.py",
+      "sha256": "ff9df6b25eec8edf56afa917a4e3e58655ae27fbd875afd25064deab9fd49675",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    }
+  ],
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+}

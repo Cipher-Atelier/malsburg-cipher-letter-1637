@@ -1,0 +1,28 @@
+{
+  "basis_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "note": "One topic only. Migration adds a public subset, not a complete original evidence archive.",
+  "topics": [
+    {
+      "topic": "malsburg-1637",
+      "category": "reading_proposal",
+      "published_page": "https://github.com/Cipher-Atelier/malsburg-1637/blob/main/malsburg-1637/article.md",
+      "claim_scope": "510-letter alphabetic block only; unknown [43]/[45]/[LL] and blemishes retained.",
+      "source_links": [
+        "https://maxim-egorov.dev/research/malsburg-1637/",
+        "https://maxim-egorov.dev/downloads/research-archive/malsburg-1637-before-2026-10-05.txt",
+        "https://github.com/dbourdeau/cyphersolver/blob/ceb348247471669ddf83f4c9061266d660d22879/docs/malsburg1637.html",
+        "https://github.com/dbourdeau/cyphersolver/tree/ceb348247471669ddf83f4c9061266d660d22879/targets/malsburg1637",
+        "https://dbourdeau.github.io/cyphersolver/malsburg1637.html",
+        "https://github.com/dbourdeau/cyphersolver/tree/main/targets/malsburg1637",
+        "https://github.com/dbourdeau/cyphersolver/commit/51fb42c3b4adf5e8eb8823cfed63c9cc8ac80afe",
+        "https://crypto.hcportal.eu/dashboard/cryptograms/497",
+        "https://api.hcportal.eu/media/1395/79511677516420.jpg",
+        "https://maxim-egorov.dev/research/malsburg-1637-text-and-code.zip"
+      ],
+      "minimum_verification_scope": "Source-image locator/hash + visual_unit_index_v2.tsv + reviewed_variant_ensemble.jsonl + original uncertainty/edits ledgers + normalized_ciphertext.txt + literal_plaintext.txt + independent decoder and source-position CSV. Keep missing alphabet.json explicit; do not reconstruct it as an original.",
+      "public_release_gap": "Historical branch1.py refers to absent alphabet.json; statistical discovery and pixels were not rerun.",
+      "verification_entry": "readings/README.md",
+      "original_published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/malsburg-1637/article.md"
+    }
+  ]
+}
