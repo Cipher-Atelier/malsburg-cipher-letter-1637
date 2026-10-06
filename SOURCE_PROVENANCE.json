@@ -199,5 +199,17 @@
     "navigation_file": "README.md",
     "previous_sha256": "336650ee99e2f4101a0e17e91407049975bc37206e96d2dc4307f5fbad14594e",
     "current_sha256": "42f342cb95f085d0657d211ea7e3beb97e432eecf79d2ef1656f58c9104f00aa"
+  },
+  "editorial_navigation_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "ec8ce583f15f0d6a2c2646b99692fb99891c45a7",
+    "scope": "Clarify source-supported attribution to Daniel Bourdeau and Larry Beck; no priority claim. Research data, code, keys and outputs are unchanged. Initial retained_inputs and adapted_files hashes document original publication snapshots; the changes below document later editorial bytes.",
+    "files": [
+      {
+        "path": "README.md",
+        "previous_sha256": "42f342cb95f085d0657d211ea7e3beb97e432eecf79d2ef1656f58c9104f00aa",
+        "current_sha256": "bc33373a5caa0a7ebf7fbb9c0c4c41be08ce46082d9f8005aaa1364b09b4bca4"
+      }
+    ]
   }
 }
