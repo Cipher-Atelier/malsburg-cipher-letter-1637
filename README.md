@@ -1,16 +1,40 @@
 # Malsburg’s cipher letter (1637)
 
-510-letter alphabetic-block reading proposal. Unresolved markers, literal defects and missing historical alphabet.json remain explicit. Daniel Bourdeau’s foundational work and Larry Beck’s later contribution with ChatGPT are credited in the research account.
+A separate ten-line alphabetic cipher block at the foot of a January 1637 letter attributed to Malsburg. This investigation covers that block, not the whole surrounding numerical correspondence.
 
-Read the [research account](malsburg-1637/article.md), [topic navigation](malsburg-1637/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+## What has been found?
 
-Run the bounded offline checks with Python 3.10 or later from this repository root:
+A repeating sequence of five shifts gives a sustained German reading about command, Swedish generals and possible departure. The proposal reproduces all 510 retained normalized letters, but damaged wording and the people behind several markers remain unresolved.
+
+A small example from the recorded result:
+
+```text
+h k u → d e r
+```
+
+The first three recorded cipher letters become the German opening der under the saved five-shift rule. That small example can be checked by hand.
+
+## Start reading
+
+1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
+2. Open [German reading with manuscript markers](verification/readings/evidence/Malsburg_1637_evidence_and_code/Malsburg_1637/cryptanalysis/diplomatic_decipherment.txt) to inspect the saved text or test result itself.
+3. Read the [research account](malsburg-1637/article.md) for historical context, methods, earlier work and unresolved questions.
+
+## How can I check it?
+
+Follow the worked example in [the reading guide](READING_GUIDE.md#check-one-example-by-hand). It connects a source record, a key or model assumption, and the saved output. For an independent source check, use the [original-source entry](https://crypto.hcportal.eu/dashboard/cryptograms/497); images are linked, not redistributed here.
+
+If you use Python, follow the [complete verification instructions](verification/README.md), including download/setup, expected results and troubleshooting. The command from this repository’s top-level folder is:
 
 ```sh
 python3 verification/check_all.py
 ```
 
-The checks reproduce only the documented public subset. Mapping coverage is not accuracy; successful replay does not establish a correct source reading or historical truth. Original and later corrected states remain separate.
+A successful run means the published files and declared calculation reproduce. It does not establish that every source sign or historical interpretation is correct.
+
+## Precise research scope
+
+510-letter alphabetic-block reading proposal. Unresolved markers, literal defects and missing historical alphabet.json remain explicit. Daniel Bourdeau’s foundational work and Larry Beck’s later contribution with ChatGPT are credited in the research account.
 
 This is part of [Cipher-Atelier](https://github.com/Cipher-Atelier), founded by [Maxim Egorov](https://github.com/cayde-6). Explore the [research index](https://github.com/Cipher-Atelier/research-index), [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md), and [step-by-step research workflow](https://github.com/Cipher-Atelier/research-index/blob/main/START_HERE.md).
 
