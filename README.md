@@ -14,6 +14,10 @@ h k u → d e r
 
 The first three recorded cipher letters become the German opening der under the saved five-shift rule. That small example can be checked by hand.
 
+## Research update — 9 October 2026
+
+Read the [new check and its limits](research-updates/2026-10-09-numerical-codes.md). This update is documentation; new experiment scripts are not included.
+
 ## Start reading
 
 1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
